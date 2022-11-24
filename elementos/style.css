@@ -1,0 +1,46 @@
+
+*{
+    margin: 0; 
+}
+
+.color{
+    background: radial-gradient(circle at top left, hotpink 30%, #eb0a0ac2);
+}
+
+.contenedor{
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+    background: rgb(255, 0, 170);
+    border: none;
+    border-radius: 6px;
+    width: 100px;
+    height: 80px;
+    box-shadow: 5px 5px 12px 1px rgb(172, 11, 81);
+}
+
+#noBtn{
+    position: absolute;
+    background: rgb(255, 0, 170);
+    border: none;
+    border-radius: 6px;
+    width: 100px;
+    height: 80px;
+    box-shadow: 5px 5px 12px 1px rgb(172, 11, 81);
+}
+
+
