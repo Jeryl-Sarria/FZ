@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Lo Sabia. ¡Feliz primerdía de novios!');
+    alert('Lo Sabia. ¡Feliz primer día de novios!');
 });
 
 const noBtn = document.querySelector('#noBtn');
